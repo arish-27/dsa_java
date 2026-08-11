@@ -11,6 +11,7 @@ public class ArmstrongNum {
             digits++;
             t=t/10;
         }
+        
         t=n;
         while(t>0){
             int d=t%10;
