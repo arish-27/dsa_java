@@ -1,4 +1,4 @@
-public class code27{
+public class code25{
     public static void main(String[] args){
         String s="A&x#";
         char ch[]=s.toCharArray();
